@@ -21,5 +21,3 @@ Two players can play against each other on the same device.
 
 
 ## efficiency
-
-
