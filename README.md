@@ -13,7 +13,12 @@ Two players can play against each other on the same device.
 
 ---
 
-This is my first short game
+## Future Improvements
+- Add single-player mode with computer AI.
+- Add scoreboard to track wins.
+- Improve UI with animations.
+- Make it mobile-friendly.
+
 
 
 
